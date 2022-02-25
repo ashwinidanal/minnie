@@ -1,0 +1,7 @@
+Pipeline{
+stages{
+stage('build'){
+steps{
+}
+}
+}
